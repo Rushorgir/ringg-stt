@@ -1,1 +1,1 @@
-ringglabs>=0.1.0
+ringglabs
